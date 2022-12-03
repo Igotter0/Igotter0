@@ -1,0 +1,4 @@
+- Hey there.
+- I'm "Igotter0", byond CKEY - Igotterminated0
+- I know lua code, and i'm now trying to learn how to code for byond SS13
+- Discord: Igottermination#1404
