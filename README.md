@@ -1,4 +1,5 @@
-- Hey there.
 - byond CKEY - Igotterminated0
-- I know lua code, and i'm now trying to learn how to code for byond SS13
 - Discord: Igottermination#1404
+
+- Born to play gmod,
+- Forced to code.
